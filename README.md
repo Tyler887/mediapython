@@ -14,5 +14,5 @@ examples will **not be provided**.
 
 ## Examples
 1. Use MediaPython to add the skin `Pivot`: `mp extension add Pivot`
-2. Use MediaPython to create a user called `Python`: `mp user welcome Python -p hiimapython123 -e python@example.org`
+2. Use MediaPython to create a user called `Python`: `mp user welcome Python -p hiimapython123mediapython& -e python@example.org` (The password used in this example isn't really used on any website.)
 3. Generate an export of your wiki: `mp data archive`
